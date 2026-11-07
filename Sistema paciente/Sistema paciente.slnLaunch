@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "API + Frontend",
+    "Projects": [
+      {
+        "Path": "Sistema Paciente\\Sistema Paciente.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "SistemaPaciente.Frontend\\SistemaPaciente.Frontend.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]

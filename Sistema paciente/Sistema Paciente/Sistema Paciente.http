@@ -1,0 +1,11 @@
+@Sistema_Paciente_HostAddress = http://localhost:5222
+
+GET {{Sistema_Paciente_HostAddress}}/api/Paciente
+Accept: application/json
+
+###
+
+GET {{Sistema_Paciente_HostAddress}}/api/Cita
+Accept: application/json
+
+###
